@@ -10,6 +10,10 @@
 
 - 💬 Ask me about **Data Analysis - Data Visualization - Machine Learning**
 
+- 📊 Tableau: **https://public.tableau.com/app/profile/shabista.yaseen.patne/vizzes**
+
+- 🔗 My Portfolio: **https://shabi340.github.io/**
+
 - 📫 How to reach me **shabistayaseen04@gmail.com**
 
 - ⚡ Fun fact **I love traveling and reading.**
