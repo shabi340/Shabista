@@ -1,4 +1,4 @@
-![logo](https://github.com/shabi340/Shabista/blob/main/LinkedIn%20Banner.png)
+![logo](https://github.com/shabi340/Shabista/blob/main/Banner.png)
 <h1 align="center">Hi, I'm Shabista Yaseen Patne</h1>
 <h3 align="center">A Data Analyst skilled in Python, R, SQL, Excel, Tableau, and Power BI.</h3>
 
